@@ -1,0 +1,13 @@
+{
+  "name": "stripewebhookhandlefunc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/service-bus": "^7.4.0",
+    "stripe": "^8.194.0"
+  },
+  "devDependencies": {}
+}
